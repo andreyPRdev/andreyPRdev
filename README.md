@@ -1,9 +1,9 @@
-<h1 align="center">Olá, eu sou Andrey Rodrigues 👋</h1>
+<h1 align="center">Olá, eu sou Andrey Rodrigues</h1>
 
 <p align="center">
-  Estudante de <strong>Desenvolvimento de Sistemas no SENAI</strong>
+  Curso <strong>Técnico em Desenvolvimento de Sistemas no SENAI</strong> e quero me tornar <strong>desenvolvedor full stack</strong>.
   <br />
-  Gosto de aprender programando, da interface que a pessoa usa à API que recebe os dados.
+  Nos meus projetos, pratico a criação de interfaces com React, a integração com APIs e o desenvolvimento de back-end com Node.js e PostgreSQL.
 </p>
 
 <p align="center">
@@ -18,25 +18,25 @@
 
 ## Projetos em destaque
 
-### [📚 Andrepertórios](https://github.com/andreyPRdev/Andreypertorios)
+### [Andrepertórios](https://github.com/andreyPRdev/Andreypertorios)
 
 Um tema de redação vira cinco flashcards com referências socioculturais e exemplos de como usá-las no ENEM. O app consulta o Gemini e guarda favoritos e pesquisas recentes no navegador.
 
 `React` · `Vite` · `Tailwind CSS` · `API do Gemini`
 
-### [📍 CEP Search](https://github.com/andreyPRdev/cepsearch)
+### [CEP Search](https://github.com/andreyPRdev/cepsearch)
 
 O ViaCEP fornece o endereço a partir do CEP. Depois de acrescentar o número e, se quiser, o complemento, dá para salvar o cadastro e voltar a ele pelo histórico.
 
 `React` · `React Router` · `ViaCEP` · `IndexedDB`
 
-### [📦 Pedidos](https://github.com/andreyPRdev/Pedidos)
+### [Pedidos](https://github.com/andreyPRdev/Pedidos)
 
 API para cadastrar e gerenciar clientes e registrar os pedidos de cada um. Dá para filtrar os pedidos por status e atualizar o andamento entre **pendente**, **preparando** e **entregue**.
 
 `Node.js` · `Express` · `PostgreSQL`
 
-### [🔤 MECRO — Jogo da Palavra](https://github.com/andreyPRdev/ProjetoSA)
+### [MECRO — Jogo da Palavra](https://github.com/andreyPRdev/ProjetoSA)
 
 Jogo que fiz em equipe. Você tenta descobrir a palavra letra por letra antes que as tentativas acabem. Dá para jogar com a palavra do dia em três dificuldades ou escolher uma palavra para outra pessoa adivinhar.
 
