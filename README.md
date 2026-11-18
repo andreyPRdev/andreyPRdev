@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Andrey Pereira</h1>
+<h1 align="center">Olá, eu sou Andrey Rodrigues</h1>
 
 <p align="center">
   Curso <strong>Técnico em Desenvolvimento de Sistemas no SENAI</strong> e quero me tornar <strong>desenvolvedor full stack</strong>.
