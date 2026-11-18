@@ -44,7 +44,7 @@ Jogo que fiz em equipe. Você tenta descobrir a palavra letra por letra antes qu
 
 ## Onde me encontrar
 
-Meu [portfólio]([https://github.com/andreyPRdev/andrey-dev](https://andrey-devv.vercel.app/)) reúne mais detalhes sobre mim e os projetos que desenvolvo.
+Meu [portfólio](https://andrey-devv.vercel.app/) reúne mais detalhes sobre mim e os projetos que desenvolvo.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrey-pereira-rodrigues-4989b4347/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andreyPRdev)
