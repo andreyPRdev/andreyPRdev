@@ -1,4 +1,6 @@
-# Olá, eu sou Andrey Rodrigues 👋
+# Olá, eu sou Andrey Pereira
+
+Estudo **Desenvolvimento de Sistemas no SENAI** e aprendo na prática criando aplicações web, integrando APIs e desenvolvendo projetos em equipe.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -9,34 +11,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-Sou estudante de **Desenvolvimento de Sistemas no SENAI**, com interesse em desenvolvimento web e na construção de aplicações que resolvam problemas reais.
+## Projetos em destaque
 
-Gosto de transformar ideias em projetos funcionais, explorar diferentes soluções e aprender novas tecnologias ao longo do processo.
-
-## Tecnologias e ferramentas
-
-- JavaScript e React
-- HTML5 e CSS3
-- Python
-- Git e GitHub
-- APIs REST e React Router
-
-## Projetos
-
-**[CEP Search](https://github.com/andreyPRdev/cepsearch)**
-
-Aplicação em React que utiliza a API ViaCEP para consultar endereços a partir de CEPs, com navegação entre páginas e interface responsiva.
-
-**[MECRO — Jogo da Palavra](https://github.com/andreyPRdev/ProjetoSA)**
-
-Jogo desenvolvido em equipe com JavaScript, HTML e CSS, com diferentes modos de jogo, níveis de dificuldade e validação de tentativas.
-
-## Atualmente explorando
-
-- Desenvolvimento de aplicações com React
-- Organização e estruturação de projetos
-- Integração entre aplicações e APIs
-- Novas ferramentas e práticas de desenvolvimento
+- **[Andrepertórios](https://github.com/andreyPRdev/Andreypertorios)** — Aplicação em React que usa a API do Gemini para sugerir repertórios para a redação do ENEM. Mostra exemplos de aplicação em flashcards e salva favoritos e histórico no navegador.
+- **[CEP Search](https://github.com/andreyPRdev/cepsearch)** — Aplicação em React que consulta endereços pelo ViaCEP e salva os cadastros em um histórico local com IndexedDB.
+- **[Pedidos](https://github.com/andreyPRdev/Pedidos)** — API em Node.js, Express e PostgreSQL para cadastrar e gerenciar clientes, registrar pedidos e filtrar pedidos por status e atualizar o status de um pedido.
+- **[MECRO — Jogo da Palavra](https://github.com/andreyPRdev/ProjetoSA)** — Jogo de adivinhação desenvolvido em equipe com HTML, CSS e JavaScript. Dá para descobrir a palavra do dia em três níveis de dificuldade ou jogar com uma palavra personalizada.
 
 ## Onde me encontrar
 
